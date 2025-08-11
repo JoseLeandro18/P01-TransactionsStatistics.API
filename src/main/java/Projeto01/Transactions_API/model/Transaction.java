@@ -6,7 +6,7 @@ public class Transaction {
     private Double valor;
     private OffsetDateTime dataHora;
 
-    public Transaction(Double valor, OffsetDateTime dataHora){
+    public Transaction(Double valor, OffsetDateTime dataHora) {
         this.valor = valor;
         this.dataHora = dataHora;
     }

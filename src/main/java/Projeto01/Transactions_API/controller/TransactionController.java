@@ -3,7 +3,6 @@ package Projeto01.Transactions_API.controller;
 import Projeto01.Transactions_API.model.Transaction;
 import Projeto01.Transactions_API.service.TransactionService;
 import jakarta.validation.Valid;
-import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

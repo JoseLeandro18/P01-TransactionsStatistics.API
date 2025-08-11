@@ -6,7 +6,6 @@ import org.springframework.stereotype.Service;
 import java.time.OffsetDateTime;
 import java.util.DoubleSummaryStatistics;
 import java.util.Queue;
-import java.util.concurrent.ConcurrentLinkedDeque;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 @Service
